@@ -25,7 +25,7 @@ const MenuItem = styled.div`
   transition: 0.3s;
   margin-bottom: 15px;
   &:hover {
-    transform: scale(1.1) rotate(-1.5deg);
+    transform: scale(1.1) rotate(-361.5deg);
   }
   .icon {
     position: absolute;
